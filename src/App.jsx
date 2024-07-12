@@ -5,7 +5,7 @@ import "./index.css";
 function App() {
 	return (
 		<article>
-			<h1>NewReactProject</h1>
+			<h1>NewReact/SnowflakeProject</h1>
       <TestKomponenteFunction />
 		</article>
 	);
